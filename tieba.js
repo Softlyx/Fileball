@@ -27,7 +27,7 @@ QuantumultX 本地脚本配置:
 
 [task_local]
 # 贴吧签到
-0 9 * * * tieba.js
+0 9 * * * https://raw.githubusercontent.com/Softlyx/QuantumultX/main/tieba.js
 
 [rewrite_local]
 # 获取Cookie
