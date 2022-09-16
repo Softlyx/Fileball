@@ -31,7 +31,7 @@ QuantumultX 本地脚本配置:
 
 [rewrite_local]
 # 获取Cookie
-https?:\/\/(c\.tieba\.baidu\.com|180\.97\.\d+\.\d+)\/c\/s\/login url script-request-header tieba.js
+https?:\/\/(c\.tieba\.baidu\.com|180\.97\.\d+\.\d+)\/c\/s\/login url script-request-header https://raw.githubusercontent.com/Softlyx/QuantumultX/main/tieba.js
 
 [mitm] 
 hostname= c.tieba.baidu.com
