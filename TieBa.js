@@ -14,9 +14,9 @@ Surge 4.2.0+ 脚本配置:
 ************************
 
 [Script]
-贴吧签到 = type=cron,cronexp=0 9 * * *,script-path= https://raw.githubusercontents.com/chxm1023/script/main/JB/TieBa.js
+贴吧签到 = type=cron,cronexp=0 9 * * *,script-path= https://raw.githubusercontent.com/Softlyx/QuantumultX/main/TieBa.js
 
-贴吧获取Cookie = type=http-request,pattern=https?:\/\/(c\.tieba\.baidu\.com|180\.97\.\d+\.\d+)\/c\/s\/login,script-path= https://raw.githubusercontents.com/chxm1023/script/main/JB/TieBa.js
+贴吧获取Cookie = type=http-request,pattern=https?:\/\/(c\.tieba\.baidu\.com|180\.97\.\d+\.\d+)\/c\/s\/login,script-path= https://raw.githubusercontent.com/Softlyx/QuantumultX/main/TieBa.js
 
 [MITM] 
 hostname= c.tieba.baidu.com
@@ -27,11 +27,11 @@ QuantumultX 本地脚本配置:
 
 [task_local]
 # 贴吧签到
-0 9 * * * https://raw.githubusercontents.com/chxm1023/script/main/JB/TieBa.js
+0 9 * * * https://raw.githubusercontent.com/Softlyx/QuantumultX/main/TieBa.js
 
 [rewrite_local]
 # 获取Cookie
-https?:\/\/(c\.tieba\.baidu\.com|180\.97\.\d+\.\d+)\/c\/s\/login url script-request-header https://raw.githubusercontents.com/chxm1023/script/main/JB/TieBa.js
+https?:\/\/(c\.tieba\.baidu\.com|180\.97\.\d+\.\d+)\/c\/s\/login url script-request-header https://raw.githubusercontent.com/Softlyx/QuantumultX/main/TieBa.js
 
 [mitm] 
 hostname= c.tieba.baidu.com
@@ -42,10 +42,10 @@ Loon 2.1.0+ 脚本配置:
 
 [Script]
 # 贴吧签到
-cron "0 9 * * *" script-path= https://raw.githubusercontents.com/chxm1023/script/main/JB/TieBa.js
+cron "0 9 * * *" script-path= https://raw.githubusercontent.com/Softlyx/QuantumultX/main/TieBa.js
 
 # 获取Cookie
-http-request https?:\/\/(c\.tieba\.baidu\.com|180\.97\.\d+\.\d+)\/c\/s\/login script-path= https://raw.githubusercontents.com/chxm1023/script/main/JB/TieBa.js
+http-request https?:\/\/(c\.tieba\.baidu\.com|180\.97\.\d+\.\d+)\/c\/s\/login script-path= https://raw.githubusercontent.com/Softlyx/QuantumultX/main/TieBa.js
 
 [Mitm] 
 hostname= c.tieba.baidu.com
