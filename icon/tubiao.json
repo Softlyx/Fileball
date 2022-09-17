@@ -3,8 +3,8 @@
 "description":"Softlyx Icon", 
 "icons":
     [
-         {"name":"GV", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/GV.PNG"},
+         {"name":"GV", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/GV.png"},
          {"name":"kakaluote", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/kakaluote.png"},
-         {"name":"wukong", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/wukong.PNG"},  
+         {"name":"wukong", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/wukong.png"},  
     ]
 }
