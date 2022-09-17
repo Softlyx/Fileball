@@ -1,20 +1,10 @@
 {
-    "name": "Hand Painted Icon",
-    "description": "Desing By Semporia",
-    "time": "2022-09-17",
-    "icons": [
-        {
-            "name": "GV",
-            "url": "https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/GV.PNG"
-        },
-         {
-            "name": "kakaluote",
-            "url": "https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/kakaluote.PNG"
-        },
-         {
-            "name": "wukong",
-            "url": "https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/wukong.PNG"
-        },
-       
+"name":"Softlyx Icon", 
+"description":"Softlyx Icon", 
+"icons":
+    [
+         {"name":"GV", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/GV.PNG"},
+         {"name":"kakaluote", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/kakaluote.png"},
+         {"name":"wukong", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/wukong.PNG"},  
     ]
 }
