@@ -20,6 +20,7 @@
         {"name":"1111.png", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/1111.png"},
         {"name":"404.png", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/404.png"},
         {"name":"BlueSea.png", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/BlueSea.png"},
+        {"name":"BlueSeaEmby.png", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/BlueSeaEmby.png"},
         {"name":"NakoNako.png", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/NakoNako.png"},
         {"name":"Infinity.png", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Infinity.png"},
         {"name":"tls.png", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/tls.png"},
@@ -35,11 +36,13 @@
         {"name":"Odyssey.png", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Odyssey.png"},
         {"name":"baipiaowang.png", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/baipiaowang.png"},
         {"name":"paoche.png", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/paoche.png"},
+        {"name":"paoche1.png", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/PaoChe1.png"},
         {"name":"Singularity.png", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Singularity.png"},
         {"name":"CatFish.png", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/CatFish.png"},
+        {"name":"TAG.png", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/TAG.png"},
         {"name":"gfw.png", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/gfw.png"},
         {"name":"alist.png", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/alist.png"},
         {"name":"PikPak.png", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/PikPak.png"},
-        {"name":"aliyun.png", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/aliyun.png"},
+        {"name":"aliyun.png", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/aliyun.png"}
     ]
 }
