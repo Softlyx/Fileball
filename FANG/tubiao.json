@@ -5,6 +5,7 @@
     [
         {"name":"Emby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Emby.png"},
         {"name":"Jellyfin", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Jellyfin.png"},
+        {"name":"Nebula", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Nebula.png"},
         {"name":"CcEmby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/CcEmby.png"},
         {"name":"1111", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/1111.png"},
         {"name":"MisakaF", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/MisakaF.png"},
@@ -55,6 +56,7 @@
         {"name":"StudyFun1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/StudyFun1.png"},    
         {"name":"JieNiGui", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/JieNiGui.png"},
         {"name":"11pshare", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/11pshare.png"},
+        {"name":"Sana", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Sana.png"},
         {"name":"tls", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/tls.png"},
         {"name":"404", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/404.png"},
         {"name":"PikPak", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/PikPak.png"},
