@@ -113,9 +113,14 @@
         {"name":"BaiDuYun", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/BaiDuYun.png"},
         {"name":"GoogleDrive", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/GoogleDrive.png"},
         {"name":"OneDrive", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/OneDrive.png"},
+        {"name":"Lvlian", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Lvlian.png"},
+        {"name":"Jikongjian", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Jikongjian.png"},
+        {"name":"Qunhui", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Qunhui.png"},
+        {"name":"Nas", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Nas.png"},
         {"name":"Webdav", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Webdav.png"},
         {"name":"Alist", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Alist.png"},
         {"name":"Nplayer", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Nplayer.png"},
-        {"name":"Infuse", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Infuse.png"}
+        {"name":"Infuse", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Infuse.png"},
+        {"name":"Music", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Music.png"}
     ]
 }
