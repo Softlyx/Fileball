@@ -1,0 +1,183 @@
+{
+"name":"Fileball Icon", 
+"description":"by Softly", 
+"icons":
+    [
+	{"name":"Emby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Emby.png"},
+	{"name":"Jellyfin", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Jellyfin.png"},
+	{"name":"Plex", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Plex.png"},
+
+        
+	{"name":"AcEmby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/AcEmby.png"},
+	{"name":"AcEmby1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/AcEmby1.png"},
+	{"name":"AnimeHome", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/AnimeHome.png"},
+	{"name":"Atvii", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Atvii.png"},
+
+	{"name":"BaiPiaoWang", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/BaiPiaoWang.png"},
+	{"name":"Bdd", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Bdd.png"},
+	{"name":"Bdd1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Bdd1.png"},
+	{"name":"BestEmby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/BestEmby.png"},
+	{"name":"BestEmby1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/BestEmby1.png"},
+	{"name":"Bigbus", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Bigbus.png"},
+	{"name":"BlueSea", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/BlueSea.png"},
+	{"name":"BlueSeaEmby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/BlueSeaEmby.png"},
+	{"name":"BoYinYuan", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/BoYinYuan.png"},
+	{"name":"BuGeiKan", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/BuGeiKan.png"},
+        
+	{"name":"Captain-z", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Captain-z.png"},
+	{"name":"CatFish", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/CatFish.png"},
+	{"name":"CatFish1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/CatFish1.png"},
+	{"name":"CcEmby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/CcEmby.png"},
+	{"name":"CharonTV", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/CharonTV.png"},
+	{"name":"CrossGreatWall", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/CrossGreatWall.png"},
+	{"name":"Csn", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Csn.png"},
+	{"name":"Csn1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Csn1.png"},
+	{"name":"CurlyMouse", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/CurlyMouse.png"},
+	{"name":"CurlyMouse1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/CurlyMouse1.png"},
+	
+	{"name":"DaHangHai", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/DaHangHai.png"},
+	{"name":"Dv", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Dv.png"},
+	{"name":"DxzEmby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/DxzEmby.png"},
+
+	{"name":"ElevenPlus", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/ElevenPlus.png"},
+	{"name":"EmbyClub", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/EmbyClub.png"},
+	{"name":"EmbyClub1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/EmbyClub1.png"},
+	{"name":"EmbyHub", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/EmbyHub.png"},
+	{"name":"EmbyHub1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/EmbyHub1.png"},
+	{"name":"EmbyHub2", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/EmbyHub2.png"},
+	{"name":"EmbyX", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/EmbyX.png"},
+
+	{"name":"YUANyt", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/YUANyt.png"},
+	{"name":"Flareix", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Flareix.png"},
+	{"name":"Foxcoo", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Foxcoo.png"},
+	{"name":"FreeEmby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/FreeEmby.png"},
+	{"name":"Froghub", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Froghub.png"},
+
+	{"name":"GfwEmby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/GfwEmby.png"},
+
+	{"name":"Han", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Han.png"},
+	{"name":"HeiShan", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/HeiShan.png"},
+	{"name":"HentaiHome", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/HentaiHome.png"},
+	{"name":"HongChen", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/HongChen.png"},
+	{"name":"Hxd", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Hxd.png"},
+	{"name":"Hxd1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Hxd1.png"},
+
+	{"name":"Infinity", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Infinity.png"},
+	{"name":"Ikoumi", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Ikoumi.png"},
+
+	{"name":"JieSen", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/JieSen.png"},
+	{"name":"Jyctv", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Jyctv.png"},
+	{"name":"JieNiGui", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/JieNiGui.png"},
+
+	{"name":"KaiLu", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/KaiLu.png"},
+	{"name":"Kevin", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Kevin.png"},
+	{"name":"KshtEmby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/KshtEmby.png"},
+
+	{"name":"LiangShan", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/LiangShan.png"},	
+	{"name":"Lion", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Lion.png"},
+	{"name":"Loniper", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Loniper.png"},
+
+	{"name":"Magpie", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Magpie.png"},
+	{"name":"MengMeng", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/MengMeng.png"},
+	{"name":"Midsummer", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Midsummer.png"},
+	{"name":"Mildnes", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Mildnes.png"},
+	{"name":"MisakaF", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/MisakaF.png"},
+	{"name":"Misty", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Misty.png"},
+	{"name":"Misty+", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Misty+.png"},
+	{"name":"Mjj", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Mjj.png"},
+	{"name":"Moonlight", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Moonlight.png"},
+	{"name":"More", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/More.png"},
+	{"name":"Mulgore", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Mulgore.png"},
+
+	{"name":"NakoNako", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/NakoNako.png"},
+	{"name":"Nebula", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Nebula.png"},
+	{"name":"Nebula1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Nebula1.png"},
+	{"name":"Nginx", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Nginx.png"},
+	{"name":"Nijigen", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Nijigen.png"},
+	{"name":"Nijigen1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Nijigen1.png"},
+	{"name":"NmEmby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/NmEmby.png"},
+	{"name":"Nya", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Nya.png"},
+
+	{"name":"Odyssey", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Odyssey.png"},
+	{"name":"Ofuniverse", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Ofuniverse.png"},
+	{"name":"OnlyFans", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/OnlyFans.png"},
+	{"name":"Orange", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Orange.png"},
+	{"name":"Orange1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Orange1.png"},
+	{"name":"O9o", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/o9o.png"},
+	{"name":"O9o1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/O9o1.png"},
+
+	{"name":"PaoChe", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/PaoChe.png"},
+	{"name":"PaoChe1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/PaoChe1.png"},
+	{"name":"PaoLuLe", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/PaoLuLe.png"},
+	{"name":"Paul", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Paul.png"},
+	{"name":"Peach", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Peach.png"},
+	{"name":"PinYun", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/PinYun.png"},
+	{"name":"Plus", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Plus.png"},
+	{"name":"Polo", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Polo.png"},
+	{"name":"Polo1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Polo1.png"},
+	{"name":"PornEmby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/PornEmby.png"},
+	
+	{"name":"QqEmby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/QqEmby.png"},
+
+	{"name":"Sana", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Sana.png"},
+	{"name":"Seoul", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Seoul.png"},
+	{"name":"SeseEmby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/SeseEmby.png"},
+	{"name":"ShenNong", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/ShenNong.png"},
+	{"name":"ShuiMu", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/ShuiMu.png"},
+	{"name":"Singularity", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Singularity.png"},
+	{"name":"StudyFun", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/StudyFun.png"},
+	{"name":"StudyFun1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/StudyFun1.png"},
+
+	{"name":"Tag", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Tag.png"},
+	{"name":"Tank", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Tank.png"},
+	{"name":"Terminus", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Terminus.png"},
+	{"name":"Texon", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Texon.png"},
+	{"name":"Tls", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Tls.png"},
+	{"name":"TreeDiagram", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/TreeDiagram.png"},
+
+	{"name":"Viper", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Viper.png"},
+	{"name":"V6", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/V6.png"},
+
+	{"name":"WangZhe", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/WangZhe.png"},
+	{"name":"WeiWei", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/WeiWei.png"},
+
+	{"name":"XfEmby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/XfEmby.png"},
+	{"name":"XfEmby1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/XfEmby1.png"},
+	{"name":"XiangGangLiShiJie", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/XiangGangLiShiJie.png"},
+	{"name":"Xltx", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Xltx.png"},
+	{"name":"Xmss", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Xmss.png"},
+	{"name":"Xop", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Xop.png"},
+
+	{"name":"YeJiChang", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/YeJiChang.png"},
+	{"name":"YeJiFu", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/YeJiFu.png"},
+
+	{"name":"ZhiPianRen", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/ZhiPianRen.png"},
+	{"name":"ZhiPianRen1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/ZhiPianRen1.png"},
+	{"name":"ZhiPianRen2", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/ZhiPianRen2.png"},
+
+	{"name":"1111", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/1111.png"},
+	{"name":"11Pshare", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/11pshare.png"},
+	{"name":"23Studio", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/23studio.png"},
+	{"name":"2020", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/2020.png"},
+	{"name":"404", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/404.png"},
+        
+
+        
+	{"name":"ALiYun", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/ALiYun.png"},
+	{"name":"BaiDuYun", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/BaiDuYun.png"},
+	{"name":"GoogleDrive", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/GoogleDrive.png"},
+	{"name":"OneDrive", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/OneDrive.png"},
+	{"name":"PikPak", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/PikPak.png"},
+	{"name":"Jikongjian", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Jikongjian.png"},
+	{"name":"Lvlian", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Lvlian.png"},
+	{"name":"Nas", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Nas.png"},
+	{"name":"Qunhui", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Qunhui.png"},
+
+	{"name":"Alist", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Alist.png"},
+	{"name":"Webdav", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Webdav.png"},
+        
+	{"name":"Nplayer", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Nplayer.png"},
+	{"name":"Infuse", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Infuse.png"},
+	{"name":"Music", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Music.png"}
+    ]
+}
