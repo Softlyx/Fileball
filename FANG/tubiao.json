@@ -4,8 +4,10 @@
 "icons":
     [
 	{"name":"Emby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Emby.png"},
+	{"name":"Emby1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Emby1.png"},
 	{"name":"Jellyfin", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Jellyfin.png"},
 	{"name":"Plex", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Plex.png"},
+	{"name":"Plex1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Plex1.png"},
 
 	{"name":"AcEmby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/AcEmby.png"},
 	{"name":"AcEmby1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/AcEmby1.png"},
@@ -121,8 +123,10 @@
 	{"name":"Sana", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Sana.png"},
 	{"name":"Seoul", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Seoul.png"},
 	{"name":"SeseEmby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/SeseEmby.png"},
+	{"name":"SeseEmby1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/SeseEmby1.png"},
 	{"name":"ShenNong", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/ShenNong.png"},
 	{"name":"ShuiMu", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/ShuiMu.png"},
+	{"name":"ShuiMu1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/ShuiMu1.png"},
 	{"name":"Singularity", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Singularity.png"},
 	{"name":"StudyFun", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/StudyFun.png"},
 	{"name":"StudyFun1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/StudyFun1.png"},
