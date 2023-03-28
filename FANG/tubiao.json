@@ -1,13 +1,12 @@
 {
-  "name":"Fileball Icon", 
-  "description":"by Softly", 
-  "icons":
+"name":"Fileball Icon", 
+"description":"by Softly", 
+"icons":
     [
-	  {"name":"Emby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Emby.png"},
+	{"name":"Emby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Emby.png"},
 	{"name":"Jellyfin", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Jellyfin.png"},
 	{"name":"Plex", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Plex.png"},
 
-        
 	{"name":"AcEmby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/AcEmby.png"},
 	{"name":"AcEmby1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/AcEmby1.png"},
 	{"name":"AnimeHome", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/AnimeHome.png"},
@@ -160,8 +159,6 @@
 	{"name":"23Studio", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/23studio.png"},
 	{"name":"2020", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/2020.png"},
 	{"name":"404", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/404.png"},
-        
-
         
 	{"name":"ALiYun", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/ALiYun.png"},
 	{"name":"BaiDuYun", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/BaiDuYun.png"},
