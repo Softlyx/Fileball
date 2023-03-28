@@ -1,6 +1,6 @@
 {
 "name":"Fileball Icon", 
-"description":"by Softly", 
+"description":"图标按照服名或群名命名，按照A-Z排列，方便查找。FileBall可以在图标搜索框搜索图标名。", 
 "icons":
     [
 	{"name":"Emby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Emby.png"},
@@ -163,6 +163,9 @@
 	{"name":"23Studio", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/23studio.png"},
 	{"name":"2020", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/2020.png"},
 	{"name":"404", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/404.png"},
+	    
+	{"name":"Alist", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Alist.png"},
+	{"name":"Webdav", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Webdav.png"},
         
 	{"name":"ALiYun", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/ALiYun.png"},
 	{"name":"BaiDuYun", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/BaiDuYun.png"},
@@ -174,9 +177,6 @@
 	{"name":"Nas", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Nas.png"},
 	{"name":"Qunhui", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Qunhui.png"},
 
-	{"name":"Alist", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Alist.png"},
-	{"name":"Webdav", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Webdav.png"},
-        
 	{"name":"Nplayer", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Nplayer.png"},
 	{"name":"Infuse", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Infuse.png"},
 	{"name":"Music", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Music.png"}
