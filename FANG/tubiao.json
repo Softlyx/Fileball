@@ -189,6 +189,8 @@
 	
 	{"name":"QqEmby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/QqEmby.png"},
 
+	{"name":"Robo", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Robo.png"},
+
 	{"name":"Sana", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Sana.png"},
 	{"name":"Sela", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Sela.png"},
 	{"name":"Seoul", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Seoul.png"},
@@ -259,7 +261,9 @@
 
 	{"name":"Alist", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Alist.png"},
 	{"name":"Webdav", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Webdav.png"},
-        
+
+	{"name":"115", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/115.png"},
+	{"name":"115yun", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/115yun.png"},
 	{"name":"ALiYun", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/ALiYun.png"},
 	{"name":"BaiDuYun", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/BaiDuYun.png"},
 	{"name":"GoogleDrive", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/GoogleDrive.png"},
